@@ -1,5 +1,5 @@
 <p align = "center">
-# Cxntrxl's RUMBLE Modding SDK
+  <img align="center" src="img/icon.png">
 </p>
 <p align = "center">
 A specialized SDK for developing or working with supported RUMBLE Mods.
@@ -8,6 +8,7 @@ A specialized SDK for developing or working with supported RUMBLE Mods.
 ## Support
 List of Mods supported by the RUMBLE Modding SDK:
 | Mod | Developer | Link |
+| --- | --------- | ---- |
 | RUMBLE Structure Saver | Cxntrxl | [X] |
 
 ## Contact
