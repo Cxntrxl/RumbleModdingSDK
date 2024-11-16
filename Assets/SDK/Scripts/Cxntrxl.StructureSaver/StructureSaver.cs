@@ -12,7 +12,7 @@ public class StructureSaver
         StructureSaveData data = new StructureSaveData();
         data.structures = new();
 
-        foreach (Structure s in GameObject.FindObjectsOfType<Structure>())
+        foreach (PlaceholderStructure s in GameObject.FindObjectsOfType<PlaceholderStructure>())
         {
             StructureData sData = new();
             switch (s.type)

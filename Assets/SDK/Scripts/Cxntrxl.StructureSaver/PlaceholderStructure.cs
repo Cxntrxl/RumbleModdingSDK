@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Structure : MonoBehaviour
+public class PlaceholderStructure : MonoBehaviour
 {
     public StructureType type;
 

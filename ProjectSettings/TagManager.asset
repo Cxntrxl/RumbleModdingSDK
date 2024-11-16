@@ -3,40 +3,41 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Audio_Stone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - 3
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - 6
+  - Clouds
+  - Floor
+  - CombatFloor
+  - Environment
+  - LeanableEnvironment
+  - 12
+  - PedestalFloor
+  - Move
+  - MoveTarget
+  - 16
+  - MoveTrigger
+  - 18
+  - PlayerMuteHitbox
+  - RecordingCamera
+  - PlayerFade
+  - PlayerOnPlayerInteraction
+  - PlayerController
+  - PlayerFeet
+  - PlayerHitbox
+  - PlayerFeetAudio
+  - PlayerPhysicsTransform
+  - PlayerTrigger
+  - InteractionHoldable
+  - InteractionBase
+  - Interator
   m_SortingLayers:
   - name: Default
     uniqueID: 0
